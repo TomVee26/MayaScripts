@@ -13,6 +13,7 @@ A collection of various Maya scripts
 See more at [velebny.net](https://velebny.net/smooth_mesh.html)
 
 ### Installation
+- [Install PyMEL](https://help.autodesk.com/view/MAYAUL/2024/ENU/?guid=GUID-2AA5EFCE-53B1-46A0-8E43-4CD0B2C72FB4)
 - Copy `TomV_SmoothMesh.py` to your Maya scripts folder:<br>
 `C:\Users\<User>\Documents\maya\<version>\prefs\scripts`
 
