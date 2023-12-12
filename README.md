@@ -2,7 +2,7 @@
 A collection of various Maya scripts
 
 ## TomV_SmoothMesh.py
-<img style="float: right" src="https://velebny.net/thumbs/smooth_mesh.jpg">
+<img align="right" src="https://velebny.net/thumbs/smooth_mesh.jpg">
 
 - Controls the Smooth Mesh properties of multiple objects at once
 - Can toggle Smooth Mesh Preview with a keyboard shortcut (handy when not using default shortcuts)
@@ -13,7 +13,8 @@ A collection of various Maya scripts
 See more at [velebny.net](https://velebny.net/smooth_mesh.html)
 
 ### Installation
-- Copy `TomV_SmoothMesh.py` to your Maya scripts folder `C:\Users\<User>\Documents\maya\<version>\prefs\scripts`
+- Copy `TomV_SmoothMesh.py` to your Maya scripts folder:<br>
+`C:\Users\<User>\Documents\maya\<version>\prefs\scripts`
 
 #### Shelf
 - Create a new shelf item
