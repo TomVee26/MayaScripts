@@ -268,5 +268,5 @@ def update_ui(*args):
 
 
 # TODO: Right click on a button to select objects with that value
-# TODO: Option to set custom number for smoothing levels
-# TODO: Move whole window when click and dragging anywhere in it
+# TODO: Option to set a custom number for smoothing levels
+# TODO: Move the whole window when click and dragging anywhere in it
